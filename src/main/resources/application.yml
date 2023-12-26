@@ -1,0 +1,8 @@
+spring:
+    main:
+        web-application-type: none
+bigtable:
+    projectId: lrn-prj-01
+    instanceId: lrn-prj-inst
+    tableId: my-table
+    emulatorPort: 8086
